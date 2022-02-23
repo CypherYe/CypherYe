@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CypherYe
-- 👀 I’m working in Whaleops, which is famous for Apache DolpineScheduler & SeaTunnel
+- 👀 I’m working in Whaleops as a HR, which is famous for Apache DolpineScheduler & SeaTunnel
 - 🌱 I’m currently looking for some enthusiasm junior/senior database engineer  
 - 📫 Reach out to me via yepeng@whaleops or +86 13121273786(same as Wechat)
